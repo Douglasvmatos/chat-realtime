@@ -6,7 +6,7 @@
 
 ## 💻 Project
 
-This project is was to created a login page and an online chat using MongoDB, Node.js, Express.js, and React technologies. The system will allow users to sign up, log in, and participate in real-time chat rooms.
+This project was created to develop a login page and an online chat using MongoDB, Node.js, Express.js, and React technologies. The system allows users to sign up, log in, and participate in real-time chat rooms.
 
 ## 🖧 Technologies
 
@@ -46,7 +46,4 @@ After cloning the project, follow these steps:
 7th: Start the front with ``npm run start``;
 
 Now the chat application will run successfully.
-
-After clone the project, use **npm install** to install project dependencies.
-For start the project.
 
